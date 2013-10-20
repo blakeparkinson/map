@@ -9,15 +9,7 @@
  *
  * Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS"
  * BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language
- * governing permissions and limitations under the License.
- *
- * Created by JetBrains PhpStorm.
- * User: doug
- * Date: 4/16/13
- * Time: 2:43 PM
- * To change this template use File | Settings | File Templates.
- */
-
+ 
 
 $root = ($_SERVER["DOCUMENT_ROOT"]);
 
