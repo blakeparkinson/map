@@ -355,7 +355,7 @@ function makeEdmodoClient() {
 function setCookieWithUserToken($userToken) {
   // FIXME(dbanks)
   // Deal with session length later.
-  setcookie(getCookieName(), encryptCookie($userToken), time() + 24 * 60 * 60, '/');
+  setcookie(getCookieName(), encryptCookie($userToken), time() + 3600 '/');
 }
 
 /**
