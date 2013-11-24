@@ -138,10 +138,10 @@ $response = $results->response;
             window.location.replace("../../views/map/usa.html");
             break;
         case "ca":
-            window.location.replace("http://www.yahoo.com");
+            window.location.replace("../../views/map/ca.html");
             break;
         case "tx":
-            window.location.replace("http://www.bing.com");
+            window.location.replace("../../views/map/tx.html");
             break;
             }
 
