@@ -1,0 +1,297 @@
+[28-Apr-2014 19:21:16 UTC]  reccomended: stdClass Object
+(
+    [payload] => Array
+        (
+            [TEACHER] => Array
+                (
+                    [0] => Array
+                        (
+                            [title] => MR
+                            [type] => TEACHER
+                            [user_id] => 18577897
+                            [username] => bcaratori0
+                            [name] => Bruno Caratori
+                            [first_name] => Bruno
+                            [last_name] => Caratori
+                            [member_since_creation_date] => 2013-03-26 01:02:53
+                            [thumb] => https://u.ph.edim.co/18577897_1_t.jpg
+                            [avatar] => https://u.ph.edim.co/18577897_1.jpg
+                        )
+
+                    [1] => Array
+                        (
+                            [title] => NONE
+                            [type] => TEACHER
+                            [user_id] => 15663451
+                            [username] => heathsilverman
+                            [name] => Heath Silverman
+                            [first_name] => Heath
+                            [last_name] => Silverman
+                            [member_since_creation_date] => 2013-01-09 18:43:04
+                            [thumb] => https://u.ph.edim.co/15663451_1_t.jpg
+                            [avatar] => https://u.ph.edim.co/15663451_1.jpg
+                        )
+
+                    [2] => Array
+                        (
+                            [title] => MR
+                            [type] => TEACHER
+                            [user_id] => 20737562
+                            [username] => dchen7
+                            [name] => David Chen
+                            [first_name] => David
+                            [last_name] => Chen
+                            [member_since_creation_date] => 2013-07-01 17:31:59
+                            [thumb] => https://u.ph.edim.co/20737562_1_t.png
+                            [avatar] => https://u.ph.edim.co/20737562_1.png
+                        )
+
+                    [3] => Array
+                        (
+                            [title] => MR
+                            [type] => TEACHER
+                            [user_id] => 19104318
+                            [username] => tliang1
+                            [name] => Tony Liang
+                            [first_name] => Tony
+                            [last_name] => Liang
+                            [member_since_creation_date] => 2013-04-15 22:34:56
+                            [thumb] => https://u.ph.edim.co/19104318_9_t.jpg
+                            [avatar] => https://u.ph.edim.co/19104318_9.jpg
+                        )
+
+                    [4] => Array
+                        (
+                            [title] => MR
+                            [type] => TEACHER
+                            [user_id] => 236348
+                            [username] => gabrielTeacher
+                            [name] => Gabriel Vargas
+                            [first_name] => Gabriel
+                            [last_name] => Vargas
+                            [member_since_creation_date] => 0000-00-00 00:00:00
+                            [thumb] => https://u.ph.edim.co/236348_0_t.jpg
+                            [avatar] => https://u.ph.edim.co/236348_0.jpg
+                        )
+
+                    [5] => Array
+                        (
+                            [title] => NONE
+                            [type] => TEACHER
+                            [user_id] => 20338760
+                            [username] => gmiller-messner0
+                            [name] => Gabrielle Miller-Messner
+                            [first_name] => Gabrielle
+                            [last_name] => Miller-Messner
+                            [member_since_creation_date] => 2013-06-10 17:33:33
+                            [thumb] => https://u.ph.edim.co/20338760_5_t.jpg
+                            [avatar] => https://u.ph.edim.co/20338760_5.jpg
+                        )
+
+                    [6] => Array
+                        (
+                            [title] => MS
+                            [type] => TEACHER
+                            [user_id] => 15535774
+                            [username] => vivdesign
+                            [name] => Viv Hwang
+                            [first_name] => Viv
+                            [last_name] => Hwang
+                            [member_since_creation_date] => 2013-01-07 19:38:12
+                            [thumb] => https://u.ph.edim.co/15535774_16_t.jpg
+                            [avatar] => https://u.ph.edim.co/15535774_16.jpg
+                        )
+
+                    [7] => Array
+                        (
+                            [title] => MR
+                            [type] => TEACHER
+                            [user_id] => 13701774
+                            [username] => georgebonvanie
+                            [name] => George Rafi Bonvanie
+                            [first_name] => George Rafi
+                            [last_name] => Bonvanie
+                            [member_since_creation_date] => 2012-10-29 23:25:58
+                            [thumb] => https://u.ph.edim.co/13701774_1_t.png
+                            [avatar] => https://u.ph.edim.co/13701774_1.png
+                        )
+
+                    [8] => Array
+                        (
+                            [title] => MR
+                            [type] => TEACHER
+                            [user_id] => 290146
+                            [username] => porcellius
+                            [name] => Rob Hutter
+                            [first_name] => Rob
+                            [last_name] => Hutter
+                            [member_since_creation_date] => 2010-04-25 05:40:54
+                            [thumb] => https://u.ph.edim.co/290146_0_t.jpg
+                            [avatar] => https://u.ph.edim.co/290146_0.jpg
+                        )
+
+                    [9] => Array
+                        (
+                            [title] => NONE
+                            [type] => TEACHER
+                            [user_id] => 169863
+                            [username] => ldoogan
+                            [name] => Liz Keleher
+                            [first_name] => Liz
+                            [last_name] => Keleher
+                            [member_since_creation_date] => 0000-00-00 00:00:00
+                            [thumb] => https://u.ph.edim.co/169863_10_t.jpg
+                            [avatar] => https://u.ph.edim.co/169863_10.jpg
+                        )
+
+                    [10] => Array
+                        (
+                            [title] => NONE
+                            [type] => TEACHER
+                            [user_id] => 784379
+                            [username] => DKnudson
+                            [name] => Danielle Knudson
+                            [first_name] => Danielle
+                            [last_name] => Knudson
+                            [member_since_creation_date] => 2010-10-19 03:35:40
+                            [thumb] => https://u.ph.edim.co/784379_18_t.png
+                            [avatar] => https://u.ph.edim.co/784379_18.png
+                        )
+
+                    [11] => Array
+                        (
+                            [title] => MR
+                            [type] => TEACHER
+                            [user_id] => 15156370
+                            [username] => ahuang13
+                            [name] => Angus Huang
+                            [first_name] => Angus
+                            [last_name] => Huang
+                            [member_since_creation_date] => 2012-12-11 21:49:09
+                            [thumb] => https://u.ph.edim.co/15156370_25_t.jpg
+                            [avatar] => https://u.ph.edim.co/15156370_25.jpg
+                        )
+
+                    [12] => Array
+                        (
+                            [title] => NONE
+                            [type] => TEACHER
+                            [user_id] => 1796367
+                            [username] => cloudcontroller
+                            [name] => Jack Murgia
+                            [first_name] => Jack
+                            [last_name] => Murgia
+                            [member_since_creation_date] => 2011-05-02 19:42:33
+                            [thumb] => https://u.ph.edim.co/1796367_9_t.png
+                            [avatar] => https://u.ph.edim.co/1796367_9.png
+                        )
+
+                    [13] => Array
+                        (
+                            [title] => NONE
+                            [type] => TEACHER
+                            [user_id] => 15037004
+                            [username] => apsychas
+                            [name] => Aleksis Psychas
+                            [first_name] => Aleksis
+                            [last_name] => Psychas
+                            [member_since_creation_date] => 2012-12-06 19:25:25
+                            [thumb] => https://u.ph.edim.co/15037004_10_t.jpg
+                            [avatar] => https://u.ph.edim.co/15037004_10.jpg
+                        )
+
+                    [14] => Array
+                        (
+                            [title] => MR
+                            [type] => TEACHER
+                            [user_id] => 20859874
+                            [username] => jguardado0
+                            [name] => Jose Guardado
+                            [first_name] => Jose
+                            [last_name] => Guardado
+                            [member_since_creation_date] => 2013-07-10 19:46:11
+                            [thumb] => https://u.ph.edim.co/20859874_1_t.jpg
+                            [avatar] => https://u.ph.edim.co/20859874_1.jpg
+                        )
+
+                    [15] => Array
+                        (
+                            [title] => NONE
+                            [type] => TEACHER
+                            [user_id] => 5104528
+                            [username] => dbpdx
+                            [name] => David Ball
+                            [first_name] => David
+                            [last_name] => Ball
+                            [member_since_creation_date] => 2012-01-19 18:42:13
+                            [thumb] => https://u.ph.edim.co/5104528_9_t.jpg
+                            [avatar] => https://u.ph.edim.co/5104528_9.jpg
+                        )
+
+                    [16] => Array
+                        (
+                            [title] => NONE
+                            [type] => TEACHER
+                            [user_id] => 7160876
+                            [username] => Thiyagu
+                            [name] => Thiyagu Packirisami
+                            [first_name] => Thiyagu
+                            [last_name] => Packirisami
+                            [member_since_creation_date] => 2012-05-04 16:31:21
+                            [thumb] => https://u.ph.edim.co/6ff5/7160876_24_42.jpg
+                            [avatar] => https://u.ph.edim.co/6ff5/7160876_24_140.jpg
+                        )
+
+                    [17] => Array
+                        (
+                            [title] => MR
+                            [type] => TEACHER
+                            [user_id] => 18485611
+                            [username] => astepinski0
+                            [name] => Adam Stepinski
+                            [first_name] => Adam
+                            [last_name] => Stepinski
+                            [member_since_creation_date] => 2013-03-21 22:50:53
+                            [thumb] => https://u.ph.edim.co/18485611_1_t.jpg
+                            [avatar] => https://u.ph.edim.co/18485611_1.jpg
+                        )
+
+                    [18] => Array
+                        (
+                            [title] => NONE
+                            [type] => TEACHER
+                            [user_id] => 20916838
+                            [username] => mnewton9
+                            [name] => Mark Newton
+                            [first_name] => Mark
+                            [last_name] => Newton
+                            [member_since_creation_date] => 2013-07-15 18:00:49
+                            [thumb] => https://u.ph.edim.co/20916838_2_t.png
+                            [avatar] => https://u.ph.edim.co/20916838_2.png
+                        )
+
+                    [19] => Array
+                        (
+                            [title] => MR
+                            [type] => TEACHER
+                            [user_id] => 16186778
+                            [username] => manishdkothari
+                            [name] => Manish Kothari
+                            [first_name] => Manish
+                            [last_name] => Kothari
+                            [member_since_creation_date] => 2013-01-23 22:51:58
+                            [thumb] => https://u.ph.edim.co/16186778_1_t.jpg
+                            [avatar] => https://u.ph.edim.co/16186778_1.jpg
+                        )
+
+                )
+
+            [total] => 20
+        )
+
+    [message_keys] => Array
+        (
+            [0] => lighthouse_suggestions
+        )
+
+)
