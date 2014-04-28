@@ -1,0 +1,27 @@
+<?
+
+$avatar = isset($this->avatar) ? $this->avatar : '{{avatar}}';
+$name   = isset($this->name) ? $this->name : '{{name}}';
+$user_id = isset($this->user_id) ? $this->user_id : '{{user_id}}';
+$taxonomy_id = isset($this->taxonomy_id) ? $this->taxonomy_id : false;
+$connection_class = isset($this->taxonomy_id) ? "referral" : 'connection';
+
+
+$translator = TranslationHelper::getInstance(PATH2_LANGUAGES . 'referrals.tmx', $this->language);
+
+?>
+
+<div id="connection-<?= $user_id; ?>" class="suggestion-teacher {{new}}" data-uid="<?= $user_id; ?>" data-tid="<?=$taxonomy_id; ?>">
+    <div class="icon"></div>
+    <div class="add-icon <?=$connection_class; ?>" title="<?= $translator->_('connect', (string)$name); ?>"></div>
+    <img src="<?= $avatar; ?>"  />
+    <p class="teacher-name">
+        <? if (!empty($taxonomy_id)): ?>
+            <p class="rec-name" title="<?= $translator->_('invite-to-join'); ?>"><?= $name; ?></p>
+        <? else: ?>
+            <a class="user-link" title="<?= $translator->_('view-profile'); ?>" target="_BLANK" href="/profile/<?= $user_id; ?>"><?= $name; ?></a>
+        <? endif; ?>
+    </p>
+    <p class="request-sent"><span></span><?= $translator->_('request-sent'); ?></p>
+</div>
+
