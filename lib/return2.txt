@@ -1,0 +1,267 @@
+28-Apr-2014 19:23:09 UTC]  reccomended: stdClass Object
+(
+    [payload] => Array
+        (
+            [TEACHER] => Array
+                (
+                    [0] => Array
+                        (
+                            [first_name] => Melissa
+                            [last_name] => Nickels
+                            [modification_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [district_id] => 17630
+                            [school_id] => 98212
+                            [email] => *****@edmodo.com
+                            [state] => WI
+                            [taxonomy_id] => 5306803832c0d61118eb9709
+                            [creation_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [id] => 380685
+                            [school_name] => Monroe High
+                            [district_name] =>
+                            [name] => Melissa Nickels
+                        )
+
+                    [1] => Array
+                        (
+                            [first_name] => Jenell
+                            [last_name] => Shippy
+                            [modification_date] => Array
+                                (
+                                    [$date] => 1395105540000
+                                )
+
+                            [district_id] => 17630
+                            [school_id] => 98212
+                            [email] => *****@edmodo.com
+                            [state] => WI
+                            [taxonomy_id] => 5306803632c0d61118eb7aae
+                            [creation_date] => Array
+                                (
+                                    [$date] => 1395105540000
+                                )
+
+                            [id] => 338091
+                            [school_name] => Monroe High
+                            [district_name] =>
+                            [name] => Jenell Shippy
+                        )
+
+                    [2] => Array
+                        (
+                            [first_name] => Judith
+                            [last_name] => Adcock
+                            [modification_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [district_id] => 17630
+                            [school_id] => 98212
+                            [email] => *****@edmodo.com
+                            [state] => WI
+                            [taxonomy_id] => 5306804632c0d61118ec7226
+                            [creation_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [id] => 380711
+                            [school_name] => Monroe High
+                            [district_name] =>
+                            [name] => Judith Adcock
+                        )
+
+                    [3] => Array
+                        (
+                            [first_name] => Terri
+                            [last_name] => Montgomery
+                            [modification_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [district_id] => 17630
+                            [school_id] => 98212
+                            [email] => *****@edmodo.com
+                            [state] => WI
+                            [taxonomy_id] => 5306803632c0d61118eb7fb7
+                            [creation_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [id] => 380679
+                            [school_name] => Monroe High
+                            [district_name] =>
+                            [name] => Terri Montgomery
+                        )
+
+                    [4] => Array
+                        (
+                            [first_name] => Sarah
+                            [last_name] => Bleicher
+                            [modification_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [district_id] => 17630
+                            [school_id] => 98212
+                            [email] => *****@edmodo.com
+                            [state] => WI
+                            [taxonomy_id] => 5306804a32c0d61118ecae17
+                            [creation_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [id] => 380719
+                            [school_name] => Monroe High
+                            [district_name] =>
+                            [name] => Sarah Bleicher
+                        )
+
+                    [5] => Array
+                        (
+                            [first_name] => Tony
+                            [last_name] => Petit
+                            [modification_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [district_id] => 17630
+                            [school_id] => 98212
+                            [email] => *****@edmodo.com
+                            [state] => WI
+                            [taxonomy_id] => 5306803232c0d61118eb49be
+                            [creation_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [id] => 380669
+                            [school_name] => Monroe High
+                            [district_name] =>
+                            [name] => Tony Petit
+                        )
+
+                    [6] => Array
+                        (
+                            [first_name] => Jeannie
+                            [last_name] => Erickson
+                            [modification_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [district_id] => 17630
+                            [school_id] => 98212
+                            [email] => *****@edmodo.com
+                            [state] => WI
+                            [taxonomy_id] => 5306804e32c0d61118ece78f
+                            [creation_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [id] => 380727
+                            [school_name] => Monroe High
+                            [district_name] =>
+                            [name] => Jeannie Erickson
+                        )
+
+                    [7] => Array
+                        (
+                            [first_name] => Jerome
+                            [last_name] => Cherney
+                            [modification_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [district_id] => 17630
+                            [school_id] => 98212
+                            [email] => *****@edmodo.com
+                            [state] => WI
+                            [taxonomy_id] => 5306803532c0d61118eb7992
+                            [creation_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [id] => 380677
+                            [school_name] => Monroe High
+                            [district_name] =>
+                            [name] => Jerome Cherney
+                        )
+
+                    [8] => Array
+                        (
+                            [first_name] => Jennifer
+                            [last_name] => Moehn
+                            [modification_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [district_id] => 17630
+                            [school_id] => 98212
+                            [email] => *****@edmodo.com
+                            [state] => WI
+                            [taxonomy_id] => 5306803c32c0d61118ebd080
+                            [creation_date] => Array
+                                (
+                                    [$date] => 1395105939000
+                                )
+
+                            [id] => 380693
+                            [school_name] => Monroe High
+                            [district_name] =>
+                            [name] => Jennifer Moehn
+                        )
+
+                    [9] => Array
+                        (
+                            [first_name] => Daryl
+                            [last_name] => Miller
+                            [modification_date] => Array
+                                (
+                                    [$date] => 1395105540000
+                                )
+
+                            [district_id] => 17630
+                            [school_id] => 98212
+                            [email] => *****@edmodo.com
+                            [state] => WI
+                            [taxonomy_id] => 5306804c32c0d61118ecc73e
+                            [creation_date] => Array
+                                (
+                                    [$date] => 1395105540000
+                                )
+
+                            [id] => 338141
+                            [school_name] => Monroe High
+                            [district_name] =>
+                            [name] => Daryl Miller
+                        )
+
+                )
+
+            [total] => 10
+        )
+
+    [message_keys] => Array
+        (
+            [0] => lighthouse_suggestions
+        )
+
+)
