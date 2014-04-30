@@ -1,0 +1,38 @@
+<?
+
+$avatar = isset($this->avatar) ? $this->avatar : "https://u.ph.edim.co/default-avatars/44.jpg";
+$name   = isset($this->name) ? $this->name : '{{name}}';
+if (isset($this->user_id)){
+    $user_id = $this->user_id;
+}
+else if (isset($this->taxonomy_id)){
+    $user_id = $this->taxonomy_id;
+}
+else{
+    $user_id = '{{user_id}}';
+}
+//$user_id = isset($this->user_id) ? $this->user_id : '{{user_id}}';
+$taxonomy_id = isset($this->taxonomy_id) ? $this->taxonomy_id : '{{taxonomy_id}}';
+$connection_class = isset($this->taxonomy_id) ? "referral" : 'connection';
+$translator = TranslationHelper::getInstance(PATH2_LANGUAGES . 'referrals.tmx', $this->language);
+$icon_text = $translator->_('connect', (string)$name);
+if ($taxonomy_id){
+    $icon_text = $translator->_('invite-to-join', (string)$name);
+}
+
+?>
+
+<div id="connection-<?= $user_id; ?>" class="suggestion-teacher {{new}}" data-uid="<?= $user_id; ?>" data-tid="<?=$taxonomy_id; ?>">
+    <div class="icon"></div>
+    <div class="add-icon <?=$connection_class; ?>" title="<?= $icon_text ?>"></div>
+    <img src="<?= $avatar; ?>"  />
+    <p class="teacher-name">
+        <? if (!empty($taxonomy_id)): ?>
+            <p class="referral-name"><?= $name; ?></p>
+        <? else: ?>
+            <a class="user-link" title="<?= $translator->_('view-profile'); ?>" target="_BLANK" href="/profile/<?= $user_id; ?>"><?= $name; ?></a>
+        <? endif; ?>
+    </p>
+    <p class="request-sent"><span></span><?= $translator->_('request-sent'); ?></p>
+</div>
+
